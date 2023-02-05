@@ -19,6 +19,8 @@ npm run dev
 npm run build
 ```
 
+![](https://github.com/Cristianosm91/MakeYourBurger/blob/main/public/img/MakeYouBurger.gif)
+
 
 ## Comandos para subir no Github:
 

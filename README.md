@@ -3,9 +3,15 @@
 ## Project setup
 
 ```sh
+Install Nodejs (https://nodejs.org/en/)
 npm init vue@latest
 npm install
 ```
+#### Simulate Backend
+```sh
+npm install json-server
+```
+
 
 ### Compiles and hot-reloads for development
 

@@ -27,6 +27,9 @@ npm run build
 
 ![](https://github.com/Cristianosm91/MakeYourBurger/blob/main/public/img/MakeYouBurger.gif)
 
+### Projeto Curso de Vue3 - Hora de Codar - Matheus Battisti
+
+https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
 
 ## Comandos para subir no Github:
 

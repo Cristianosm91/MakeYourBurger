@@ -8,11 +8,12 @@
     </div>
 </template>
 
-<script>
-export default {
-   name: "Navbar",
-   props: ["logo", "alt"]
-}
+<script setup lang="ts">
+const props = defineProps ({
+    logo: String,
+    alt: String
+})
+
 </script>
 
 <style scoped>

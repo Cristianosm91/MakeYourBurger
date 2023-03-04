@@ -30,10 +30,10 @@ npm run build
 
 4-git pull origin main
 
-5-git add *
+5-git add .
 
 6-git status
 
-7-git commit -m "Envio do projeto para o repositorio github"
+7-git commit -m "Primeiro commit, envio do projeto para o repositorio"
 
 8-git push -u origin main

@@ -4,10 +4,10 @@
     </div>
 </template>
 
-<script>
-export default {
-    name: "Banner"
-}
+<script setup lang="ts">
+
+//    const name =  "Banner"
+
 </script>
 
 <style scoped>

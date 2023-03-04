@@ -80,39 +80,104 @@
   "burgers": [
     {
       "nome": "Carlos",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Tomate"
+      ],
+      "status": "Finalizado",
+      "id": 1
+    },
+    {
+      "nome": "Cristiano",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 2
+    },
+    {
+      "nome": "Schmidt",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 5
+    },
+    {
+      "nome": "Cristiano",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    },
+    {
+      "nome": "Cristiano",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "Carlos",
       "carne": "Alcatra",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Cebola roxa",
-        "Pepino"
+        "Pepino",
+        "Cebola roxa"
       ],
-      "status": "Finalizado",
-      "id": 2
+      "status": "Solicitado",
+      "id": 8
     },
     {
       "nome": "Schmidt",
       "carne": "Alcatra",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Bacon",
-        "Salame"
+        "Tomate",
+        "Cheddar"
       ],
-      "status": "Em produção",
-      "id": 4
+      "status": "Solicitado",
+      "id": 9
     },
     {
-      "nome": "Carol",
-      "carne": "Maminha",
-      "pao": "Integral",
+      "nome": "Schmidt",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Cebola roxa",
-        "Pepino"
+        "Bacon"
       ],
       "status": "Solicitado",
       "id": 10
     },
     {
-      "nome": "Cristiano",
+      "nome": "Alfred Schmidt",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 11
+    },
+    {
+      "nome": "Cristiano Mota",
       "carne": "Picanha",
       "pao": "3 Queijos",
       "opcionais": [
@@ -121,7 +186,7 @@
         "Cheddar"
       ],
       "status": "Em produção",
-      "id": 11
+      "id": 12
     }
   ]
 }

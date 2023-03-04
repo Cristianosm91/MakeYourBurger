@@ -7,16 +7,16 @@
 </template>
 
 
-<script>
+<script setup lang="ts">
 import Banner from "../components/Banner.vue"
 import BurgerForm from "../components/BurgerForm.vue"
 
-export default {
-  name: "Home",
-  components: {
-    Banner,
-    BurgerForm
-  }
-}
+// export default {
+//   name: "Home",
+//   components: {
+//     Banner,
+//     BurgerForm
+//   }
+// }
 </script>
 

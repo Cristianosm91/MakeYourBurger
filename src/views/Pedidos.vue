@@ -5,14 +5,9 @@
   </div>
 </template>
 
-<script>
+<script setup lang="ts">
 import Dashboard from "../components/Dashboard.vue"
-export default {
-  name: "Pedidos",
-  components: {
-    Dashboard
-  }
-}
+
 </script>
 
 <style>
